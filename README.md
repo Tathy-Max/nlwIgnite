@@ -1,1 +1,3 @@
 # nlwIgnite
+
+Very good experience learning prisma, Sqlite and so on...
